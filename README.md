@@ -14,3 +14,4 @@ Cara install pip untuk multi python version
 Jika error disutils di python3
   sudo apt-get install python3-distutils
 
+test update
